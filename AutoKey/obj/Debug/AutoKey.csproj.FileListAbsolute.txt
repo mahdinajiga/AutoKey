@@ -1,0 +1,13 @@
+D:\Mahdi\Programing\C# and C++\Projects\AutoKey\AutoKey\bin\Debug\AutoKey.exe
+D:\Mahdi\Programing\C# and C++\Projects\AutoKey\AutoKey\bin\Debug\AutoKey.pdb
+D:\Mahdi\Programing\C# and C++\Projects\AutoKey\AutoKey\obj\Debug\AutoKey.Form1.resources
+D:\Mahdi\Programing\C# and C++\Projects\AutoKey\AutoKey\obj\Debug\AutoKey.Properties.Resources.resources
+D:\Mahdi\Programing\C# and C++\Projects\AutoKey\AutoKey\obj\Debug\AutoKey.csproj.GenerateResource.Cache
+D:\Mahdi\Programing\C# and C++\Projects\AutoKey\AutoKey\obj\Debug\AutoKey.exe
+D:\Mahdi\Programing\C# and C++\Projects\AutoKey\AutoKey\obj\Debug\AutoKey.pdb
+D:\Mahdi\Programing\C# and C++\Projects\AutoKey\AutoKey\obj\Debug\AutoKey.Login.resources
+D:\Mahdi\Programing\C# and C++\Projects\AutoKey\AutoKey\obj\Debug\AutoKey.csprojResolveAssemblyReference.cache
+D:\Mahdi\Programing\CSharpCPP\OLD_FILES\Projects\AutoKey\AutoKey\obj\Debug\AutoKey.exe
+D:\Mahdi\Programing\CSharpCPP\OLD_FILES\Projects\AutoKey\AutoKey\obj\Debug\AutoKey.pdb
+D:\Mahdi\Programing\CSharpCPP\OLD_FILES\Projects\AutoKey\G\AutoKey\AutoKey\obj\Debug\AutoKey.exe
+D:\Mahdi\Programing\CSharpCPP\OLD_FILES\Projects\AutoKey\G\AutoKey\AutoKey\obj\Debug\AutoKey.pdb
